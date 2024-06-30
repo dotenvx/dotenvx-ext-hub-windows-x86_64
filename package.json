@@ -1,6 +1,6 @@
 {
   "name": "@dotenvx/dotenvx-ext-hub-windows-x86_64",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "dotenvx-ext-hub-windows-x86_64 executable",
   "repository": {
     "type": "git",
